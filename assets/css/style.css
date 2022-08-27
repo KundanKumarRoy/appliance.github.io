@@ -222,4 +222,8 @@ a {
     .welcome-intro{
     padding-top:40px ;
 }
+    .column-cout-2 {
+    column-count: 1;
+    column-gap: 0rem;
+}
 } 
