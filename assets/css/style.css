@@ -52,7 +52,8 @@ body {
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-family: 'Poppins', sans-serif;
-    font-size: 15px; 
+    font-size: 15px;
+   
 }
 .navbar-toggler { 
     line-height: 0!important;
@@ -201,7 +202,7 @@ a {
   @media (max-width:768px){
     .home-hero{
         width: 100%;
-        height: auto;
+        height: 100vh;
     }
     .welcome-intro h1 {
     font-size: 35px;
@@ -210,19 +211,20 @@ a {
     color: white;
     text-transform: capitalize;
 }
+
 }
 /*
 @media (max-width:620px){
     .home-hero{
-        width: 100%;
-        height: auto;
+        width: 106%;
+        height: 100vh;
     }
 }*/
 @media (max-width:480px){
     .welcome-intro{
     padding-top:40px ;
 }
-    .column-cout-2 {
+.column-cout-2 {
     column-count: 1;
     column-gap: 0rem;
 }
