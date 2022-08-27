@@ -222,7 +222,10 @@ a {
 }*/
 @media (max-width:480px){
     .welcome-intro{
-    padding-top:40px ;
+    padding-top:40px ; 
+}
+.home-hero{
+    padding-bottom:40px;
 }
 .column-cout-2 {
     column-count: 1;
