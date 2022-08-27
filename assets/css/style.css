@@ -201,7 +201,7 @@ a {
   @media (max-width:768px){
     .home-hero{
         width: 106%;
-        height: 100vh;
+        height: auto;
     }
     .welcome-intro h1 {
     font-size: 35px;
@@ -215,7 +215,7 @@ a {
 @media (max-width:620px){
     .home-hero{
         width: 106%;
-        height: 100vh;
+        height: auto;
     }
 }*/
 @media (max-width:480px){
