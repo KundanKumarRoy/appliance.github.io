@@ -52,8 +52,7 @@ body {
     -webkit-text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
     font-family: 'Poppins', sans-serif;
-    font-size: 15px;
-    background-color: yellow;
+    font-size: 15px; 
 }
 .navbar-toggler { 
     line-height: 0!important;
